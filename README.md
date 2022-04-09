@@ -9,4 +9,4 @@ I am a middle web developer and a Computer Engineer graduated from UNIVERSIDAD N
 - 📫 How to reach me: 
 - 👔 <a href="https://www.linkedin.com/in/dal%C3%ADa-mac%C3%ADas-mu%C3%B1oz-a01131190/">Linkedin</a>
 - 💎 You can see my awesome and updated resume <a href="https://drive.google.com/file/d/1CTxvLvCKbOaV4VtyHlYt0l4AMtdqjaBY/view?usp=sharing">here </a>  
-- 📭 Email: alice.ashford@gmail.com  
+- 📭Email me here: alice.ashford@gmail.com  

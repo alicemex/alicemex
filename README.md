@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hello everyone! 👋
 
-<!--
-**alicemex/alicemex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Dalía Macías, my friends call me ✨Alice✨
+I am a middle web developer and a Computer Engineer graduated from UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO 🏆. 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working remotely on SECRETARIA DE CULTURA - Fonoteca Nacional de México as a web developer and Webmaster || Also I'm a computing teacher aswell
+- 🌱 I’m currently learning Node Python and JS in Academlo 
+- 👯 I’m looking forward to collaborate remotely on new projects as a frontend developer using my new skills of React JS.
+- 📫 How to reach me: 
+- 👔 [Linkedin] (https://www.linkedin.com/in/dal%C3%ADa-mac%C3%ADas-mu%C3%B1oz-a01131190/)
+- 💎 You can see my awesome and update resume in this [link] (https://drive.google.com/file/d/1CTxvLvCKbOaV4VtyHlYt0l4AMtdqjaBY/view?usp=sharing) 
+- 📭 Email: alice.ashford@gmail.com  

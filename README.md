@@ -2,6 +2,7 @@
 
 My name is Dalía Macías, my friends call me ✨Alice✨
 I am a middle web developer and a Computer Engineer graduated from UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO 🏆. 
+My proud: I always achieve my goals😎
 
 - 🔭 I’m currently working remotely on SECRETARIA DE CULTURA - <a href="www.fonotecanaciona.gob.mx">Fonoteca Nacional de México</a> as a web developer and Webmaster || Also I'm a computing teacher aswell
 - 🌱 I’m currently learning Node Python and JS in Academlo 

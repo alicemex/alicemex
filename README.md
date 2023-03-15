@@ -9,5 +9,5 @@ My strength: Very high frustration tolerance self-control, Persistent solving is
 - 👯 I’m looking forward to collaborate remotely on new fun projects as a frontend using my magical powers as a developer.
 - 📫 How to reach me: 
 - 👔 <a href="https://www.linkedin.com/in/dal%C3%ADa-mac%C3%ADas-mu%C3%B1oz-a01131190/">Linkedin</a>
-- 💎 You can see my awesome and updated resume <a href="https://drive.google.com/file/d/1CTxvLvCKbOaV4VtyHlYt0l4AMtdqjaBY/view?usp=sharing">here </a>  
+- 💎 You can see my awesome and updated resume (Kindly request by mail please)
 - 📭Email me here: alice.ashford@gmail.com  
